@@ -18,6 +18,6 @@
 
 ## Feedback
 
-[Fehler melden](https://github.com/schwanniii/Codememes/issues) - [Feature vorschlagen](https://github.com/schwanniii/Codememes/issues)
+[Fehler melden](https://github.com/jannis-buesing/Codememes/issues) - [Feature vorschlagen](https://github.com/jannis-buesing/Codememes/issues)
 
 </div>
